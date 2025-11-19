@@ -1,11 +1,5 @@
 <h2 align="center">echo "Hey, Kauã here! Brazilian dev ☕."</h2>
 
-
-<!-- Minimal GIF -->
-<div align="right" height="180">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNpOHFwYTV3MndqcHNxMWlxMjk5YWQ3aWp4eWUyZHNpNGZxZTRpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gHpMqiGHoDXb2/giphy.gif" width="250" height="250" />
-</div>
-
 ### 
 <div style="display: flex; justify-content: space-between; align-items: center;">
 
@@ -25,7 +19,7 @@ I'm currently focused on PHP and beginning my journey in the development field. 
   <li>🚀 Looking to apply my knowledge in real-world projects.</li>
 </ul>
 </div>
-
+<br>
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&color=gradient" />
 </div>
