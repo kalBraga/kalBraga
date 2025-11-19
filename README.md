@@ -48,6 +48,7 @@ Atualmente, estou focado em PHP e iniciando minha jornada na área de desenvolvi
   <li>🚀 Busco aplicar meus conhecimentos em projetos reais.</li>
 </ul>
 
+⭐ Se você achar meu trabalho interessante, fique à vontade para me seguir ou entrar em contato. Estou sempre aberta a conexões e aprendizado!
 </div>
   
 
