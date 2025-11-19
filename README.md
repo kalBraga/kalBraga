@@ -19,6 +19,36 @@ I'm currently focused on PHP and beginning my journey in the development field. 
   <li>🚀 Looking to apply my knowledge in real-world projects.</li>
 </ul>
 </div>
+
+
+<!--Apresentacao em Portugues-->
+
+
+  <h2 align="center">echo "Olá, Kauã aqui!☕."</h2>
+
+###
+<div style="display: flex; justify-content: space-between; align-items: center;">
+
+<h4 align="left">Sobre mim</h4>
+
+<p align="left">
+Olá! É um prazer ter você por aqui.<br>
+Meu nome é Kauã, sou estudante de Análise e Desenvolvimento de Sistemas e um apaixonado por tecnologia desde que me conheço como gente.<br><br>
+Atualmente, estou focado em PHP e iniciando minha jornada na área de desenvolvimento. Aqui no meu GitHub, você encontrará meus estudos, projetos pessoais e tudo o que estou aprendendo ao longo do caminho para me tornar um desenvolvedor completo. 😄
+</p>
+
+<ul align="left">
+  <li>💻 Explorar novas tecnologias e desenvolver soluções de software.</li>
+  <li>🌱 Emprendendo mais sobre PHP, Laravel, MySQL, JavaScript, HTML e CSS.</li>
+  <li>🤝 Aberto a oportunidades de estágio ou colaboração técnica.</li>
+  <li>💡 Tenho curiosidade sobre programação, inovação e novas tecnologias.</li>
+  <li>🚀 Busco aplicar meus conhecimentos em projetos reais.</li>
+</ul>
+
+</div>
+  
+
+  
 <br>
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&color=gradient" />
