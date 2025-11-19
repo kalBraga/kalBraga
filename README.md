@@ -47,7 +47,7 @@ I'm currently focused on PHP and beginning my journey in the development field. 
 </div>
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&color=gradient" />
+    <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&reversal=true&fontSize=-72&fontColor=FFFFFF&fontAlign=45&fontAlignY=50&rotate=-45&stroke=-&animation=scaleIn&descSize=18&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 <h4 align="center">📫 Contact</h4>
