@@ -1,11 +1,11 @@
-<h4 align="center">echo "Hey, Kauã here! Brazilian dev ☕."</h4>
+<h2 align="center">echo "Hey, Kauã here! Brazilian dev ☕."</h2>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&section=header&theme=dark" />
 </div>
 
 <!-- Minimal GIF -->
-<div align="right" height="180">
+<div align="left" height="180">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTczdnhpMjFpYzRsZDVjNW81MmVrdnBjZGE0dDY5ZzFlc2ZvbW8wYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mtAU9hD8qdrBC/giphy.gif" width="250" height="250" />
 </div>
 
