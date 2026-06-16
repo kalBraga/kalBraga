@@ -91,7 +91,7 @@ Atualmente, estou mergulhado de cabeça no <b>Ecossistema Microsoft (C#, .NET 8/
   </a>
   <img width="12" />
 
-  <a href="https://www.youtube.com/" target="_blank">
+  <a href="https://www.youtube.com/@Oquasedev" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" height="40" alt="YouTube" />
   </a>
 </div>
