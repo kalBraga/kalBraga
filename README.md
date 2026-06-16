@@ -1,109 +1,64 @@
-<h2 align="center">echo "Hey, Kauã here! Brazilian dev ☕."</h2>
+# echo "Hey, Kauã here! Brazilian Back-End Developer ☕."
 
-### 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+### About me
 
-<h4 align="left">About me</h4>
+Hello! It's a pleasure to meet you.  
+I'm Kauã, a Software Engineering student passionate about building robust, scalable software solutions and exploring modern backend architectures.
 
-<p align="left">
-Hello! It's a pleasure to meet you.<br>
-I'm Kauã, a Brazilian Systems Analysis and Development student and someone who's been passionate about technology for as long as I can remember.<br><br>
-I'm currently focused on PHP and beginning my journey in the development field. Here on my GitHub, you'll find my studies, personal projects, and everything I'm learning along the way as I work toward becoming a well-rounded developer. 😄
-</p>
+I am currently fully focused on the **Microsoft Ecosystem (C#, .NET 8/.NET 9, SQL Server, and Azure)**. On my GitHub, you'll find my software architecture studies, REST APIs, and real-world projects that I build to solve practical business problems.
 
-<ul align="left">
-  <li>💻 Exploring new technologies and developing software solutions.</li>
-  <li>🌱 Learning more about PHP, Laravel, MySQL, JavaScript, HTML & CSS.</li>
-  <li>🤝 Open to internship opportunities or technical collaboration.</li>
-  <li>💡 Curious about programming, innovation, and emerging technologies.</li>
-  <li>🚀 Looking to apply my knowledge in real-world projects.</li>
-</ul>
-</div>
+*   💻 **Current Focus:** Developing clean APIs using ASP.NET Core, EF Core, and Clean Architecture.
+*   🚀 **In the Works:** Building a dedicated SaaS application for logistics and a web-based logic game.
+*   🧠 **Core Principles:** Writing clean code backed by SOLID principles, OOP best practices, and efficient database modeling.
+*   🤝 **Open to:** Internship opportunities at tech consultancies or enterprise development teams.
 
+---
 
-<!--Apresentacao em Portugues-->
+### Sobre mim
 
+Olá! É um prazer ter você por aqui.  
+Meu nome é Kauã, sou estudante de Engenharia de Software e um apaixonado por construir soluções de software robustas, escaláveis e explorar arquiteturas modernas de back-end.
 
- <!-- <h2 align="center">echo "Olá, Kauã aqui!☕."</h2> -->
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=dark"  />
-</div>
+Atualmente, estou 100% focado no **Ecossistema Microsoft (C#, .NET 8/.NET 9, SQL Server e Azure)**. Aqui no meu GitHub, você encontrará meus estudos de arquitetura de software, APIs RESTful e os projetos reais que desenvolvo para resolver problemas práticos de negócios.
 
-###
-<div style="display: flex; justify-content: space-between; align-items: center;">
+*   💻 **Foco Atual:** Desenvolvimento de APIs limpas utilizando ASP.NET Core, EF Core e Clean Architecture.
+*   🚀 **Em Andamento:** Desenvolvendo uma aplicação SaaS voltada para logística e um jogo web focado em lógica.
+*   🧠 **Princípios:** Escrita de código limpo baseado em princípios SOLID, POO e modelagem eficiente de bancos de dados.
+*   🤝 **Disponibilidade:** Aberto a oportunidades de estágio em consultorias de tecnologia ou squads de desenvolvimento corporativo.
 
-<h4 align="left">Sobre mim</h4>
+---
 
-<p align="left">
-Olá! É um prazer ter você por aqui.<br>
-Meu nome é Kauã, sou estudante de Análise e Desenvolvimento de Sistemas e um apaixonado por tecnologia desde que me conheço como gente.<br><br>
-Atualmente, estou focado em PHP e iniciando minha jornada na área de desenvolvimento. Aqui no meu GitHub, você encontrará meus estudos, projetos pessoais e tudo o que estou aprendendo ao longo do caminho para me tornar um desenvolvedor completo. 😄
-</p>
+### 🛠️ Tech Stack & Tools
 
-<ul align="left">
-  <li>💻 Explorar novas tecnologias e desenvolver soluções de software.</li>
-  <li>🌱 Emprendendo mais sobre PHP, Laravel, MySQL, JavaScript, HTML e CSS.</li>
-  <li>🤝 Aberto a oportunidades de estágio ou colaboração técnica.</li>
-  <li>💡 Tenho curiosidade sobre programação, inovação e novas tecnologias.</li>
-  <li>🚀 Busco aplicar meus conhecimentos em projetos reais.</li>
-</ul>
+<!-- Microsoft Ecosystem -->
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/.NET_8_%2F_9-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
 
-⭐ Se você achar meu trabalho interessante, fique à vontade para me seguir ou entrar em contato. Estou sempre aberta a conexões e aprendizado!
-</div>
-  
+<!-- Core Web & Scripts -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 
-  
-<br>
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&color=gradient" />
-</div>
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 
-<h4 align="center">🛠️ Tech Stack & Tools</h4>
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" />
-</div>
+### 🤝 Contact & Content
 
-<div>
-      <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&reversal=true&fontSize=4&fontColor=FFFFFF&fontAlign=45&fontAlignY=50&rotate=-45&stroke=&animation=scaleIn&descSize=18&descAlign=50&descAlignY=50&textBg=false&color=gradient"/>
-</div>
+<a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:SEU_EMAIL_AQUI">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="SEU_LINK_DO_YOUTUBE_AQUI" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>
 
-<h4 align="center">📫 Contact</h4>
-
-<div align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" />
-  </a>
-  <img width="12" />
-
-  <a href="mailto:SEUEMAILAQUI@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" height="40" />
-  </a>
-  <img width="12" />
-
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" height="40" />
-  </a>
-</div>
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&theme=dark" />
-</div>
-
-<p align="left">⭐ If you find my work interesting, feel free to follow or reach out. I'm always open to connecting and learning!</p>
+⭐️ *If you find my work interesting, feel free to follow or reach out. I'm always open to connecting and professional growth!*
