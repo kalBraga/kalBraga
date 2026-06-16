@@ -53,7 +53,7 @@ Atualmente, estou mergulhado de cabeça no <b>Ecossistema Microsoft (C#, .NET 8/
   
 <br>
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&color=gradient" />
+  <img align="center style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&color=gradient" />
 </div>
 
 <h4 align="center">🛠️ Tech Stack & Tools</h4>
@@ -79,7 +79,7 @@ Atualmente, estou mergulhado de cabeça no <b>Ecossistema Microsoft (C#, .NET 8/
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img align="center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 
