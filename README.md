@@ -17,41 +17,16 @@ Currently, I am fully focused on the <b>Microsoft Ecosystem (C#, .NET 8/.NET 9, 
 	<li>🧠 <b>Core Principles:</b> Writing clean code backed by SOLID principles, OOP, and efficient database modeling.</li>
 	<li>🤝 <b>Open to:</b> Internship opportunities at tech consultancies or enterprise development teams.</li>
 </ul>
+<p align="left">⭐ If you find my work interesting, feel free to follow or reach out. I'm always open to connecting and learning!</p>
 
 <!--Apresentacao em Portugues-->
 
-<br>
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=dark" />
-</div>
-
-### 
-
-<h4 align="left">Sobre mim</h4>
-
-<p align="left">
-Olá! É um prazer ter você por aqui.<br>
-Meu nome é Kauã, sou estudante de Engenharia de Software e apaixonado por tecnologia desde que me conheço como gente.<br><br>
-Atualmente, estou mergulhado de cabeça no <b>Ecossistema Microsoft (C#, .NET 8/.NET 9, SQL Server e Azure)</b>. Aqui no meu GitHub, você vai encontrar meus estudos em arquitetura de software, APIs RESTful e projetos reais que desenvolvo para resolver problemas práticos de negócios. Também estou compartilhando toda a minha jornada de aprendizado enquanto busco minha primeira oportunidade como desenvolvedor. 😄
-</p>
-
-<ul align="left">
-  <li>💻 <b>Foco Atual:</b> Construindo APIs limpas com ASP.NET Core, EF Core e Clean Architecture.</li>
-  <li>🌱 <b>Expandindo Conhecimentos:</b> Me aprofundando em C#, SQL Server, Azure, Docker, HTML e CSS.</li>
-  <li>🚀 <b>Em Andamento:</b> Desenvolvendo uma aplicação SaaS para logística e um jogo web de lógica.</li>
-  <li>🧠 <b>Princípios:</b> Escrita de código limpo baseado em SOLID, POO e modelagem eficiente de banco de dados.</li>
-  <li>🤝 <b>Aberto a:</b> Oportunidades de estágio em consultorias de tecnologia ou times de desenvolvimento corporativo.</li>
-</ul>
-
-<p align="left">⭐ Se você achar meu trabalho interessante, fique à vontade para me seguir ou entrar em contato. Estou sempre aberto a conexões e aprendizado!</p>
-  
 <br>
 <div>
   <img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&color=gradient" />
 </div>
 
 <h4 align="center">🛠️ Tech Stack & Tools</h4>
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
   <img width="12" />
@@ -81,6 +56,28 @@ Atualmente, estou mergulhado de cabeça no <b>Ecossistema Microsoft (C#, .NET 8/
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&reversal=true&fontSize=4&fontColor=FFFFFF&fontAlign=45&fontAlignY=50&rotate=-45&stroke=&animation=scaleIn&descSize=18&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
 </div>
 
+### 
+
+<h4 align="left">Sobre mim</h4>
+
+<p align="left">
+Olá! É um prazer ter você por aqui.<br>
+Meu nome é Kauã, sou estudante de Engenharia de Software e apaixonado por tecnologia desde que me conheço como gente.<br><br>
+Atualmente, estou mergulhado de cabeça no <b>Ecossistema Microsoft (C#, .NET 8/.NET 9, SQL Server e Azure)</b>. Aqui no meu GitHub, você vai encontrar meus estudos em arquitetura de software, APIs RESTful e projetos reais que desenvolvo para resolver problemas práticos de negócios. Também estou compartilhando toda a minha jornada de aprendizado enquanto busco minha primeira oportunidade como desenvolvedor. 😄
+</p>
+
+<ul align="left">
+  <li>💻 <b>Foco Atual:</b> Construindo APIs limpas com ASP.NET Core, EF Core e Clean Architecture.</li>
+  <li>🌱 <b>Expandindo Conhecimentos:</b> Me aprofundando em C#, SQL Server, Azure, Docker, HTML e CSS.</li>
+  <li>🚀 <b>Em Andamento:</b> Desenvolvendo uma aplicação SaaS para logística e um jogo web de lógica.</li>
+  <li>🧠 <b>Princípios:</b> Escrita de código limpo baseado em SOLID, POO e modelagem eficiente de banco de dados.</li>
+  <li>🤝 <b>Aberto a:</b> Oportunidades de estágio em consultorias de tecnologia ou times de desenvolvimento corporativo.</li>
+</ul>
+
+<p align="left">⭐ Se você achar meu trabalho interessante, fique à vontade para me seguir ou entrar em contato. Estou sempre aberto a conexões e aprendizado!</p>
+  
+<br>
+
 <h4 align="center">📫 Contact</h4>
 
 <div align="center">
@@ -103,5 +100,3 @@ Atualmente, estou mergulhado de cabeça no <b>Ecossistema Microsoft (C#, .NET 8/
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&theme=dark" />
 </div>
-
-<p align="left">⭐ If you find my work interesting, feel free to follow or reach out. I'm always open to connecting and learning!</p>
