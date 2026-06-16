@@ -1,64 +1,112 @@
-# echo "Hey, Kauã here! Brazilian Back-End Developer ☕."
+<h2 align="center">echo "Hey, Kauã here! Brazilian Back-End Developer ☕."</h2>
 
-### About me
+### 
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
-Hello! It's a pleasure to meet you.  
-I'm Kauã, a Software Engineering student passionate about building robust, scalable software solutions and exploring modern backend architectures.
+<h4 align="left">About me</h4>
 
-I am currently fully focused on the **Microsoft Ecosystem (C#, .NET 8/.NET 9, SQL Server, and Azure)**. On my GitHub, you'll find my software architecture studies, REST APIs, and real-world projects that I build to solve practical business problems.
+<p align="left">
+Hello! It's a pleasure to meet you.<br>
+I'm Kauã, a Software Engineering student and someone who's been passionate about technology for as long as I can remember.<br><br>
+Currently, I am fully focused on the **Microsoft Ecosystem (C#, .NET 8/.NET 9, SQL Server, and Azure)**. On my GitHub, you will find my studies in software architecture, REST APIs, and real-world projects I develop to solve practical, everyday business problems. I also share everything I'm learning along the way as I work toward securing my first developer opportunity. 😄
+</p>
 
-*   💻 **Current Focus:** Developing clean APIs using ASP.NET Core, EF Core, and Clean Architecture.
-*   🚀 **In the Works:** Building a dedicated SaaS application for logistics and a web-based logic game.
-*   🧠 **Core Principles:** Writing clean code backed by SOLID principles, OOP best practices, and efficient database modeling.
-*   🤝 **Open to:** Internship opportunities at tech consultancies or enterprise development teams.
+<ul align="left">
+	<li>💻 **Current Focus:** Building clean APIs with ASP.NET Core, EF Core, and Clean Architecture.</li>
+	<li>🌱 **Expanding Knowledge:** Diving deeper into C#, SQL Server, Azure, Docker, HTML & CSS.</li>
+	<li>🚀 **In the Works:** Developing a SaaS application for logistics and a web-based logic game.</li>
+	<li>🧠 **Core Principles:** Writing clean code backed by SOLID principles, OOP, and efficient database modeling.</li>
+	<li>🤝 **Open to:** Internship opportunities at tech consultancies or enterprise development teams.</li>
+</ul>
+</div>
 
----
 
-### Sobre mim
+<!--Apresentacao em Portugues-->
 
-Olá! É um prazer ter você por aqui.  
-Meu nome é Kauã, sou estudante de Engenharia de Software e um apaixonado por construir soluções de software robustas, escaláveis e explorar arquiteturas modernas de back-end.
 
-Atualmente, estou 100% focado no **Ecossistema Microsoft (C#, .NET 8/.NET 9, SQL Server e Azure)**. Aqui no meu GitHub, você encontrará meus estudos de arquitetura de software, APIs RESTful e os projetos reais que desenvolvo para resolver problemas práticos de negócios.
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=dark"  />
+</div>
 
-*   💻 **Foco Atual:** Desenvolvimento de APIs limpas utilizando ASP.NET Core, EF Core e Clean Architecture.
-*   🚀 **Em Andamento:** Desenvolvendo uma aplicação SaaS voltada para logística e um jogo web focado em lógica.
-*   🧠 **Princípios:** Escrita de código limpo baseado em princípios SOLID, POO e modelagem eficiente de bancos de dados.
-*   🤝 **Disponibilidade:** Aberto a oportunidades de estágio em consultorias de tecnologia ou squads de desenvolvimento corporativo.
+###
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
----
+<h4 align="left">Sobre mim</h4>
 
-### 🛠️ Tech Stack & Tools
+<p align="left">
+Olá! É um prazer ter você por aqui.<br>
+Meu nome é Kauã,sou estudante de Engenharia de Software e apaixonado por tecnologia desde que me conheço como gente.<br><br>
+Atualmente, estou mergulhado de cabeça no **Ecossistema Microsoft (C#, .NET 8/.NET 9, SQL Server e Azure)**. Aqui no meu GitHub, você vai encontrar meus estudos em arquitetura de software, APIs RESTful e projetos reais que desenvolvo para resolver problemas práticos de negócios. Também estou compartilhando toda a minha jornada de aprendizado enquanto busco minha primeira oportunidade como desenvolvedor. 😄
+</p>
 
-<!-- Microsoft Ecosystem -->
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-<img src="https://img.shields.io/badge/.NET_8_%2F_9-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
-<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
+<ul align="left">
+  <li>💻 **Foco Atual:** Construindo APIs limpas com ASP.NET Core, EF Core e Clean Architecture</li>
+  <li>🌱 **Expandindo Conhecimentos:** Me aprofundando em C#, SQL Server, Azure, Docker, HTML e CSS.</li>
+  <li>🚀 **Em Andamento:** Desenvolvendo uma aplicação SaaS para logística e um jogo web de lógica</li>
+  <li>🧠 **Princípios:** Escrita de código limpo baseado em SOLID, POO e modelagem eficiente de banco de dados.</li>
+  <li>🤝 **Aberto a:** Oportunidades de estágio em consultorias de tecnologia ou times de desenvolvimento corporativo.</li>
 
-<!-- Core Web & Scripts -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</ul>
 
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+⭐ Se você achar meu trabalho interessante, fique à vontade para me seguir ou entrar em contato. Estou sempre aberta a conexões e aprendizado!
+</div>
+  
+<br>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&color=gradient" />
+</div>
 
----
+<h4 align="center">🛠️ Tech Stack & Tools</h4>
 
-### 🤝 Contact & Content
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
 
-<a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:SEU_EMAIL_AQUI">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="SEU_LINK_DO_YOUTUBE_AQUI" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>
 
-⭐️ *If you find my work interesting, feel free to follow or reach out. I'm always open to connecting and professional growth!*
+<div>
+      <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&reversal=true&fontSize=4&fontColor=FFFFFF&fontAlign=45&fontAlignY=50&rotate=-45&stroke=&animation=scaleIn&descSize=18&descAlign=50&descAlignY=50&textBg=false&color=gradient"/>
+</div>
+
+<h4 align="center">📫 Contact</h4>
+
+<div align="center">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" />
+  </a>
+  <img width="12" />
+
+  <a href="mailto:SEUEMAILAQUI@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" height="40" />
+  </a>
+  <img width="12" />
+
+  <a href="https://www.youtube.com/" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" height="40" />
+  </a>
+</div>
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&theme=dark" />
+</div>
+
+<p align="left">⭐ If you find my work interesting, feel free to follow or reach out. I'm always open to connecting and learning!</p>
