@@ -8,15 +8,15 @@
 <p align="left">
 Hello! It's a pleasure to meet you.<br>
 I'm Kauã, a Software Engineering student and someone who's been passionate about technology for as long as I can remember.<br><br>
-Currently, I am fully focused on the **Microsoft Ecosystem (C#, .NET 8/.NET 9, SQL Server, and Azure)**. On my GitHub, you will find my studies in software architecture, REST APIs, and real-world projects I develop to solve practical, everyday business problems. I also share everything I'm learning along the way as I work toward securing my first developer opportunity. 😄
+Currently, I am fully focused on the <b>Microsoft Ecosystem (C#, .NET 8/.NET 9, SQL Server, and Azure)<b>. On my GitHub, you will find my studies in software architecture, REST APIs, and real-world projects I develop to solve practical, everyday business problems. I also share everything I'm learning along the way as I work toward securing my first developer opportunity. 😄
 </p>
 
 <ul align="left">
-	<li>💻 **Current Focus:** Building clean APIs with ASP.NET Core, EF Core, and Clean Architecture.</li>
-	<li>🌱 **Expanding Knowledge:** Diving deeper into C#, SQL Server, Azure, Docker, HTML & CSS.</li>
-	<li>🚀 **In the Works:** Developing a SaaS application for logistics and a web-based logic game.</li>
-	<li>🧠 **Core Principles:** Writing clean code backed by SOLID principles, OOP, and efficient database modeling.</li>
-	<li>🤝 **Open to:** Internship opportunities at tech consultancies or enterprise development teams.</li>
+	<li>💻 <b>Current Focus:<b> Building clean APIs with ASP.NET Core, EF Core, and Clean Architecture.</li>
+	<li>🌱 <b>Expanding Knowledge:<b> Diving deeper into C#, SQL Server, Azure, Docker, HTML & CSS.</li>
+	<li>🚀 <b>In the Works:<b> Developing a SaaS application for logistics and a web-based logic game.</li>
+	<li>🧠 <b>Core Principles:<b> Writing clean code backed by SOLID principles, OOP, and efficient database modeling.</li>
+	<li>🤝 <b>Open to:<b> Internship opportunities at tech consultancies or enterprise development teams.</li>
 </ul>
 </div>
 
@@ -35,16 +35,16 @@ Currently, I am fully focused on the **Microsoft Ecosystem (C#, .NET 8/.NET 9, S
 
 <p align="left">
 Olá! É um prazer ter você por aqui.<br>
-Meu nome é Kauã,sou estudante de Engenharia de Software e apaixonado por tecnologia desde que me conheço como gente.<br><br>
-Atualmente, estou mergulhado de cabeça no **Ecossistema Microsoft (C#, .NET 8/.NET 9, SQL Server e Azure)**. Aqui no meu GitHub, você vai encontrar meus estudos em arquitetura de software, APIs RESTful e projetos reais que desenvolvo para resolver problemas práticos de negócios. Também estou compartilhando toda a minha jornada de aprendizado enquanto busco minha primeira oportunidade como desenvolvedor. 😄
+Meu nome é Kauã, sou estudante de Engenharia de Software e apaixonado por tecnologia desde que me conheço como gente.<br><br>
+Atualmente, estou mergulhado de cabeça no <b>Ecossistema Microsoft (C#, .NET 8/.NET 9, SQL Server e Azure)<b>. Aqui no meu GitHub, você vai encontrar meus estudos em arquitetura de software, APIs RESTful e projetos reais que desenvolvo para resolver problemas práticos de negócios. Também estou compartilhando toda a minha jornada de aprendizado enquanto busco minha primeira oportunidade como desenvolvedor. 😄
 </p>
 
 <ul align="left">
-  <li>💻 **Foco Atual:** Construindo APIs limpas com ASP.NET Core, EF Core e Clean Architecture</li>
-  <li>🌱 **Expandindo Conhecimentos:** Me aprofundando em C#, SQL Server, Azure, Docker, HTML e CSS.</li>
-  <li>🚀 **Em Andamento:** Desenvolvendo uma aplicação SaaS para logística e um jogo web de lógica</li>
-  <li>🧠 **Princípios:** Escrita de código limpo baseado em SOLID, POO e modelagem eficiente de banco de dados.</li>
-  <li>🤝 **Aberto a:** Oportunidades de estágio em consultorias de tecnologia ou times de desenvolvimento corporativo.</li>
+  <li>💻 <b>Foco Atual:<b> Construindo APIs limpas com ASP.NET Core, EF Core e Clean Architecture</li>
+  <li>🌱 <b>Expandindo Conhecimentos:<b> Me aprofundando em C#, SQL Server, Azure, Docker, HTML e CSS.</li>
+  <li>🚀 <b>Em Andamento:<b> Desenvolvendo uma aplicação SaaS para logística e um jogo web de lógica</li>
+  <li>🧠 <b>Princípios:<b> Escrita de código limpo baseado em SOLID, POO e modelagem eficiente de banco de dados.</li>
+  <li>🤝 <b>Aberto a:<b> Oportunidades de estágio em consultorias de tecnologia ou times de desenvolvimento corporativo.</li>
 
 </ul>
 
