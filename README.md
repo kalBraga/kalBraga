@@ -26,7 +26,7 @@ Estudante de Engenharia de Software (Uninter, cursando) com interesse em arquite
 
 | Projeto | O que é | Stack | Status |
 |---|---|---|---|
-| [Calculadora de superendividamento]([https://github.com/kalBraga/NOME-DO-REPO](https://github.com/kalBraga/Calculadora_de_superendividamento)) | Análise de crédito para servidores públicos, com cálculo de margem conforme decretos municipais | Bun, Elysia, TypeScript, PostgreSQL | Funcional |
+| [Calculadora de superendividamento](https://github.com/kalBraga/Calculadora_de_superendividamento) | Análise de crédito para servidores públicos, com cálculo de margem conforme decretos municipais | Bun, Elysia, TypeScript, PostgreSQL | Funcional |
 | [ClinicaFit](https://github.com/kalBraga/Mvp-ClinicaFit) | Web API para engajamento e bem-estar em clínicas de estética | C#, .NET | Em planejamento |
 | [Caliandra](https://github.com/kalBraga/caliandra-system) | PWA offline-first com dados da NASA para prevenção de incêndios e estresse hídrico no Cerrado, com pesquisa feita junto a agrônomos da região | PWA | Em pesquisa |
 
