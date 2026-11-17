@@ -1,11 +1,14 @@
 <h1 align="center">Olá, Kauã aqui! Dev Back-End ☕</h1>
 
+<div data-importer="border">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=71&fontColor=400C4C&fontAlign=50&fontAlignY=50&rotate=80&stroke=400C4C&strokeWidth=-20&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=true&color=gradient" alt="" />
+</div>
+
 <p align="center">
-  Estudante de Engenharia de Software · Goiânia, GO 🇧🇷<br>
+  Estudante de Engenharia de Software · Goiânia, GO<br>
   <b>Buscando estágio ou vaga júnior em desenvolvimento back-end</b><br>
   Presencial, híbrido ou remoto
 </p>
-
 ---
 
 ## 👋 Sobre mim
@@ -35,38 +38,18 @@ Estudante de Engenharia de Software (Uninter, cursando) com interesse em arquite
 
 <p>
   <b>Uso hoje:</b>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" align="center" />
-  &nbsp;·&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" height="32" alt="Bun" align="center" />
-  &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=elysia" height="32" alt="Elysia" align="center" />
-  &nbsp;·&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL" align="center" />
-  &nbsp;·&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" align="center" />
-  &nbsp;·&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker" align="center" />
+  <img src="https://skillicons.dev/icons?i=ts,bun,elysia,postgres,git,docker" height="40" alt="TypeScript, Bun, Elysia, PostgreSQL, Git, Docker" align="center" />
 </p>
 
 <p>
   <b>Estudando:</b>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="C#" align="center" />
-  &nbsp;·&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="32" alt=".NET e ASP.NET Core" align="center" />
-  &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" height="32" alt="AWS" align="center" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,aws" height="40" alt="C#, .NET, AWS" align="center" />
 </p>
 
-## 📫 Contato
+<h2 align="center">📫 Contato</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kaua.gb1950@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" height="40" alt="Gmail" />
-  </a>
-  <a href="https://www.youtube.com/@Oquasedev" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" height="40" alt="YouTube" />
-  </a>
+  <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:kaua.gb1950@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" /></a>
+  <a href="https://www.youtube.com/@Oquasedev"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube" /></a>
 </p>
