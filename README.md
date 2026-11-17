@@ -38,7 +38,7 @@ aprofundando C# e .NET para atuar em times que usam essa stack.
 
 ## 🛠️ Tecnologias
 
-*Uso hoje:* TypeScript · Bun · Elysia · PostgreSQL · Git · Docker
+*Uso hoje:* TypeScript · Bun · Elysia · PostgreSQL · Git · Docker <br>
 *Estudando:* C# · .NET · ASP.NET Core · AWS
 
 <br>
