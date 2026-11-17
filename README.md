@@ -1,7 +1,7 @@
-<h1 align="center">Olá, Kauã aqui! Dev Back-End ☕</h1>
+<h3 align="center">Olá, Kauã aqui! Dev Back-End ☕</h3>
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=71&fontColor=#400C4C&fontAlign=50&fontAlignY=50&rotate=80&stroke=#400C4C&strokeWidth=-20&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=true&color=gradient"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=71&fontColor=400C4C&fontAlign=50&fontAlignY=50&rotate=80&stroke=400C4C&strokeWidth=-20&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=true&color=gradient" alt="" />
 </div>
 
 <p align="center">
@@ -11,17 +11,19 @@
 </p>
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=71&fontColor=#400C4C&fontAlign=50&fontAlignY=50&rotate=80&stroke=#400C4C&strokeWidth=-20&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=true&color=gradient"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=71&fontColor=400C4C&fontAlign=50&fontAlignY=50&rotate=80&stroke=400C4C&strokeWidth=-20&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=true&color=gradient" alt="" />
 </div>
-## 👋 Sobre mim
+
+
+👋 Sobre mim
 
 Estudante de Engenharia de Software (Uninter, cursando) com interesse em arquitetura, modelagem de dados e system design. Construo sistemas que resolvem problemas reais (hoje em TypeScript, Bun e PostgreSQL) e estou aprofundando C# e .NET para atuar em times que usam essa stack.
 
-## 🎓 Formação
+🎓 Formação
 
 - **Engenharia de Software**, Uninter · cursando
 
-## 🚀 Projetos
+ 🚀 Projetos
 
 | Projeto | O que é | Stack | Status |
 |---|---|---|---|
@@ -29,14 +31,14 @@ Estudante de Engenharia de Software (Uninter, cursando) com interesse em arquite
 | [ClinicaFit](https://github.com/kalBraga/Mvp-ClinicaFit) | Web API para engajamento e bem-estar em clínicas de estética | C#, .NET | Em planejamento |
 | [Caliandra](https://github.com/kalBraga/caliandra-system) | PWA offline-first com dados da NASA para prevenção de incêndios e estresse hídrico no Cerrado, com pesquisa feita junto a agrônomos da região | PWA | Em pesquisa |
 
-## 📚 Estudando agora
+ 📚 Estudando agora
 
 - **Lógica de programação:** [60 Dias de Lógica](https://github.com/kalBraga/Projeto-60-Dias-com-Logica) · em andamento
 - **C# e POO** (curso do Nélio Alves) · planejado
 - **ASP.NET Core, APIs REST e EF Core** (Formação da TreinaWeb) · planejado
 - **AWS** (fundamentos de cloud) · planejado
 
-## 🛠️ Tecnologias
+ 🛠️ Tecnologias
 
 <p>
   <b>Uso hoje:</b>&nbsp;
