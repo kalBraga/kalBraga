@@ -10,8 +10,7 @@
 
 ## 👋 Sobre mim
 
-Sou estudante de Engenharia de Software com interesse em arquitetura, modelagem de dados e system design.
-Construo sistemas que resolvem problemas reais (hoje em TypeScript, Bun e PostgreSQL) e estou aprofundando C# e .NET para atuar em times que usam essa stack.
+Estudante de Engenharia de Software (Uninter, cursando) com interesse em arquitetura, modelagem de dados e system design. Construo sistemas que resolvem problemas reais (hoje em TypeScript, Bun e PostgreSQL) e estou aprofundando C# e .NET para atuar em times que usam essa stack.
 
 ## 🎓 Formação
 
@@ -27,12 +26,10 @@ Construo sistemas que resolvem problemas reais (hoje em TypeScript, Bun e Postgr
 
 ## 📚 Estudando agora
 
-| Tema | Status |
-|---|---|
-| Lógica de programação ([60 Dias de Lógica](https://github.com/kalBraga/Projeto-60-Dias-com-Logica)) | Em andamento |
-| C# e POO (curso do Nélio Alves) | Planejado |
-| ASP.NET Core, APIs REST e EF Core | Planejado |
-| AWS (fundamentos de cloud) | Planejado |
+- **Lógica de programação:** [60 Dias de Lógica](https://github.com/kalBraga/Projeto-60-Dias-com-Logica) · em andamento
+- **C# e POO** (curso do Nélio Alves) · planejado
+- **ASP.NET Core, APIs REST e EF Core** · planejado
+- **AWS** (fundamentos de cloud) · planejado
 
 ## 🛠️ Tecnologias
 
