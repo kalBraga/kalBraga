@@ -28,7 +28,7 @@ Estudante de Engenharia de Software (Uninter, cursando) com interesse em arquite
 
 - **Lógica de programação:** [60 Dias de Lógica](https://github.com/kalBraga/Projeto-60-Dias-com-Logica) · em andamento
 - **C# e POO** (curso do Nélio Alves) · planejado
-- **ASP.NET Core, APIs REST e EF Core** · planejado
+- **ASP.NET Core, APIs REST e EF Core** (Formação da TreinaWeb)· planejado
 - **AWS** (fundamentos de cloud) · planejado
 
 ## 🛠️ Tecnologias
