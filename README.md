@@ -33,8 +33,29 @@ Estudante de Engenharia de Software (Uninter, cursando) com interesse em arquite
 
 ## 🛠️ Tecnologias
 
-**Uso hoje:** TypeScript · Bun · Elysia · PostgreSQL · Git · Docker<br>
-**Estudando:** C# · .NET · ASP.NET Core · AWS
+<p>
+  <b>Uso hoje:</b>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" align="center" />
+  &nbsp;·&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" height="32" alt="Bun" align="center" />
+  &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=elysia" height="32" alt="Elysia" align="center" />
+  &nbsp;·&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL" align="center" />
+  &nbsp;·&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" align="center" />
+  &nbsp;·&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker" align="center" />
+</p>
+
+<p>
+  <b>Estudando:</b>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="C#" align="center" />
+  &nbsp;·&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="32" alt=".NET e ASP.NET Core" align="center" />
+  &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" height="32" alt="AWS" align="center" />
+</p>
 
 ## 📫 Contato
 
